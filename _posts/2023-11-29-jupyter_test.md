@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Jupyter Markdown 포스팅"
+---
+
 # 테스트입니다
 ## 제목2
 ### 제목3
