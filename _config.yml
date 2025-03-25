@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "SeaweedSoup98"
+title                    : "what-learning"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "오늘은 머선러닝?" # site tagline that appears below site title in masthead
 name                     : "Jiho Ko"
 description              : "Learning Machine Learning."
 url                      : "https://seaweedsoup98.github.io"
@@ -113,15 +113,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "SeaweedSoup98"
+  name             : "Jiho Ko (@seaweedsoup98)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A Machine Learning Enthusiast."
   location         : "Seoul, South Korea"
-  email            : "seaweedsoup98@gmail.com"
+  email            : # "seaweedsoup98@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "seaweedsoup98@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
