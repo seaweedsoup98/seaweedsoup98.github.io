@@ -24,7 +24,7 @@ name                     : "Jiho Ko"
 description              : "Learning Machine Learning."
 url                      : "https://seaweedsoup98.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "seaweedsoup98/seaweedsoup98.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -52,7 +52,7 @@ comments:
     category_name        : "Comments" # Full text name of the category
     category_id          : "DIC_kwDOOJw7yM4CocC9" # Shown during giscus setup at https://giscus.app
     discussion_term      : "pathname" # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : 1 # '1' for enabled (default), '0' for disabled
+    reactions_enabled    : '1' # '1' for enabled (default), '0' for disabled
     theme                : "preferred_color_scheme" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
     strict               : 0 # 1 for enabled, 0 for disabled (default)
     input_position       : "top" # "top", "bottom" # The comment input box will be placed above or below the comments
@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A Machine Learning Enthusiast."
   location         : "Seoul, South Korea"
-  email            :
+  email            : "seaweedsoup98@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -320,7 +320,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true # true
+      comments: true
       share: true
       related: true
       show_date: true
